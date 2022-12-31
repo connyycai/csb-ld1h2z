@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://connyycai.github.io/csb-ld1h2z/static/js/main.63c253f6.chunk.js",
+    "main.js.map": "https://connyycai.github.io/csb-ld1h2z/static/js/main.63c253f6.chunk.js.map",
+    "runtime-main.js": "https://connyycai.github.io/csb-ld1h2z/static/js/runtime-main.aea98e30.js",
+    "runtime-main.js.map": "https://connyycai.github.io/csb-ld1h2z/static/js/runtime-main.aea98e30.js.map",
+    "static/js/2.47a3c3e2.chunk.js": "https://connyycai.github.io/csb-ld1h2z/static/js/2.47a3c3e2.chunk.js",
+    "static/js/2.47a3c3e2.chunk.js.map": "https://connyycai.github.io/csb-ld1h2z/static/js/2.47a3c3e2.chunk.js.map",
+    "index.html": "https://connyycai.github.io/csb-ld1h2z/index.html",
+    "static/js/2.47a3c3e2.chunk.js.LICENSE.txt": "https://connyycai.github.io/csb-ld1h2z/static/js/2.47a3c3e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aea98e30.js",
+    "static/js/2.47a3c3e2.chunk.js",
+    "static/js/main.63c253f6.chunk.js"
+  ]
+}
